@@ -1,6 +1,5 @@
 # ALS_recommendations
 
-# water_pumps_faults
 Repo for final project of Numerical Linear Algebra course @ Skoltech '21
 
 ## Requirements
